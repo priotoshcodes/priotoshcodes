@@ -1,62 +1,87 @@
-# 👋 Hi, I'm Priyatosh Bag
+<h1 align="center">Hi, I'm Priyatosh Bag 👋</h1>
+<h3 align="center">Full-Stack Developer (MERN) | Final-Year CSE Student | Open to Software Engineer Roles</h3>
 
-### 💻 Full-Stack Web Developer | MERN Stack | Problem Solver
-
-I'm a passionate **Full-Stack Web Developer from India 🇮🇳**, focused on building modern, scalable and user-friendly web applications.
-
-I enjoy turning ideas into real-world projects and continuously improving my skills in **JavaScript, React, Node.js, MongoDB and backend development**.
-
-* 🔭 Currently building **[CodeNexus](https://github.com/priotoshcodes/finalyrpro)**
-* 🌱 Currently improving my **Full-Stack Development & DSA**
-* 💬 Ask me about **Full-Stack Development, MERN Stack & JavaScript**
-* 📫 Reach me at **[priyo1189@gmail.com](mailto:priyo1189@gmail.com)**
-* ⚡ Fun fact: **I love building projects and experimenting with new technologies.**
-
----
-
-## 🚀 Featured Project
-
-<a href="https://github.com/priotoshcodes/finalyrpro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priotoshcodes&repo=finalyrpro&theme=tokyonight&hide_border=true" />
-</a>
-
-### 🧠 CodeNexus
-
-**CodeNexus** is my main full-stack project focused on coding, competitive programming and interview preparation.
-
-**Tech Stack**
-
-`React` `JavaScript` `Node.js` `Express.js` `MongoDB` `Docker`
-
-### ✨ Planned / Key Features
-
-* 💻 Online coding environment
-* 🧩 Programming problems
-* ⚙️ Code execution / judge system
-* 🏆 Competitive programming
-* 📊 User progress & performance tracking
-* 🔐 Authentication & user accounts
-* 🐳 Docker-based execution environment
-* 📚 Interview preparation resources
-
-<p>
-  <a href="https://github.com/priotoshcodes/finalyrpro">
-    <img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=for-the-badge&logo=github" />
+<p align="center">
+  <a href="mailto:priyo1189@gmail.com">
+    <img src="https://img.shields.io/badge/Email-priyo1189%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyatosh-bag-122b32259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/priotoshcodes">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 🎯 About Me
+I'm a final-year Computer Science & Engineering student building production-style full-stack applications with the **MERN stack**. I focus on backend systems, API design, and applying AI/LLM APIs to solve real problems — currently looking for **Software Engineer / Full-Stack Developer** roles and internships.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priotoshcodes&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priotoshcodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+- 🔭 Building **[CodeNexus](https://github.com/priotoshcodes/finalyrpro)** — an AI-powered coding practice platform
+- 🌱 Sharpening **DSA** and **system design** fundamentals
+- 💬 Ask me about **React, Node.js, MongoDB, Docker, or LLM API integration**
+- 📄 Resume available on request
+
+---
+
+## 🚀 Featured Project — CodeNexus
+
+An **AI-powered coding practice platform** (LeetCode-style) with a secure multi-language code execution engine and LLM-driven learning tools.
+
+**Highlights**
+- 🐳 Built a **Docker-based sandbox** supporting 7 languages (C, C++, Python, JS, Java, Kotlin, Swift), with isolated, memory-capped execution environments
+- 🤖 Integrated **Groq (Llama 3.3-70B)** for AI code review, bug detection, complexity analysis, and hint generation
+- ⚙️ Designed a modular backend (Express) with clean controller/router separation and a centralized prompt-management system
+- 🎨 Built a custom React design system with reusable themed components
+
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Docker` `Groq API`
+
+<p>
+  <a href="https://github.com/priotoshcodes/finalyrpro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priotoshcodes&repo=finalyrpro&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 📂 Other Projects
+
+**🛒 E-Commerce Platform** — Full-stack online shopping app with product browsing, cart, and user auth.
+`React` `Node.js` `Express` `MongoDB`
+
+**📦 Stock Management System** — Inventory tracking app for products, stock levels, and customer records.
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, Java, Python, C
+**Frontend:** React, HTML5, CSS3
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Tools/DevOps:** Git, GitHub, Docker, Linux, Postman
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=priotoshcodes&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priotoshcodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=priotoshcodes&theme=tokyonight&hide_border=true" />
@@ -64,143 +89,12 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priotoshcodes&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priotoshcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-</p>
-
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-</p>
-
-### 🛠️ Tools & DevOps
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
-</p>
-
----
-
-## 📂 Other Projects
-
-### 📦 Stock Management System
-
-A **MERN-based inventory management application** for managing products, stock and customer-related information.
-
-**Tech:** `React` `Node.js` `Express` `MongoDB`
-
----
-
-### 🛒 Online Shopping Website
-
-A full-stack e-commerce project focused on product browsing, shopping functionality and user interaction.
-
-**Tech:** `HTML` `CSS` `JavaScript` `React` `Node.js`
-
----
-
-### 💻 Coding & Interview Platform
-
-A project focused on **competitive programming, coding problems and technical interview preparation**, including an online judge environment.
-
-**Tech:** `React` `Node.js` `MongoDB` `Docker`
-
----
-
-## 📚 Currently Learning
-
-```text
-Full-Stack Development
-        ↓
-React & Modern JavaScript
-        ↓
-Node.js & Express
-        ↓
-MongoDB & Database Design
-        ↓
-Docker & Backend Architecture
-        ↓
-DSA & Problem Solving
-```
-
----
-
 ## 🎯 2026 Goals
-
-* 🚀 Build production-ready full-stack applications
-* 💻 Improve Data Structures & Algorithms
-* 🧠 Strengthen JavaScript & Node.js
-* 🐳 Learn advanced Docker & deployment
-* 📚 Contribute to open-source projects
-* 💼 Start my professional career as a developer
-
----
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:priyo1189@gmail.com">
-    <img src="https://img.shields.io/badge/Email-priyo1189%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/priyatosh-bag-122b32259/">
-    <img src="https://img.shields.io/badge/LinkedIn-Priyatosh%20Bag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://instagram.com/priyo1189">
-    <img src="https://img.shields.io/badge/Instagram-priyo1189-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+- Land a Software Engineer role and start my professional career
+- Ship production-ready full-stack projects
+- Level up DSA and system design
+- Contribute to open-source
 
 ---
 
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
-
-<p align="center">
-  <i>“Build. Learn. Improve. Repeat.”</i>
-</p>
+<p align="center"><i>Build. Learn. Improve. Repeat.</i></p>
